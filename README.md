@@ -1,5 +1,5 @@
 # Password-Checker
-Password strength checker against basic brute-force attacks. \\
+Password strength checker against basic brute-force attacks. \
 Download .exe file to run,
 .py file as the source code.
 1. Input your passowrd.
